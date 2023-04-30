@@ -16,4 +16,11 @@ TIP: the more results you see that needs to be excluded in dorks the more likely
 
 WEB BASED TOOLS:
 
+https://dorks.faisalahmed.me/#
+![image](https://user-images.githubusercontent.com/132210050/235363386-dc83d42a-c7b8-4811-9e58-e140dea1ed7d.png)
+
+https://dorksearch.com/
+![image](https://user-images.githubusercontent.com/132210050/235363468-161d45c1-4acf-4abd-b878-54a965cf9d9c.png)
+
+
 
