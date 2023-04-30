@@ -11,4 +11,14 @@ any user input fields e.g., comment sections (most often stored), search forms, 
 
 How to excalate xss to other things and what things it can be? 
 
+RCE VIA XSS https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/ 
+
+STEAL SESDION TOKENS
+
+BYPASS SOP (SAME ORIGIN POLICY)
+
+OPEN REDIRECT 
+
+
+
 
