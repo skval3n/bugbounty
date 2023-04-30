@@ -13,3 +13,7 @@ this will find
 3. domains with "information cannot be shown" or previewed. 
 
 TIP: the more results you see that needs to be excluded in dorks the more likely you are to get any low hanging fruits or misconfigured digital assets, exposures, etc. 
+
+WEB BASED TOOLS:
+
+
