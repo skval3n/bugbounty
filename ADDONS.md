@@ -11,6 +11,8 @@ https://addons.mozilla.org/en-US/firefox/addon/copy-all-tab-urls-we/
 
 
 
+open multiple urls, good for saving time testing one by one https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/ 
+
 jwt keys debugger, decipher 
 https://addons.mozilla.org/en-US/firefox/addon/jwtio-debugger/
 
