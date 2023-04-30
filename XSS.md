@@ -5,6 +5,7 @@ https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
 
 other payloads
 
+try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
 Where to test?
 any user input fields e.g., comment sections (most often stored), search forms, parameteres in the urls. 
