@@ -1,6 +1,5 @@
-list of programs e.g., bc, h1
-https://bugcrowd.com/vulnerability-rating-taxonomy
-
+https://bugcrowd.com/vulnerability-rating-taxonomy - good to keep for keeping track of types of submissions that are valid
+main:
 bugcrowd 
 hacker1 
 
