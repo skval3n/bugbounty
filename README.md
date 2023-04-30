@@ -1,3 +1,3 @@
 # bugbounty
 
-ultimate collection for bugbounty methodology, workflows, checklists
+ultimate collection for bugbounty methodology, workflows, checklists for web application pentesting only.
