@@ -19,19 +19,18 @@ try to bypass the restrictions such as tag removal, encoding or character blackl
 
 | Examples query for site:*.domain.com| 
 | ------------- |
-| "leave a comment" -sign in or with sing in| 
+| "leave a comment" -sign in or with sign in| 
 | "search" OR "find" -www| 
 
 
-How to excalate xss to other things and what things it can be? 
+# Escalate XSS further to:
 
-RCE VIA XSS https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/ 
-
-STEAL SESDION TOKENS
-
-BYPASS SOP (SAME ORIGIN POLICY)
-
-OPEN REDIRECT 
+| Other attacks e.g.,| 
+| ------------- |
+|RCE https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/  | 
+| STEAL SESSION TOKENS| 
+| BYPASS SOP (SAME ORIGIN POLICY)| 
+| OPEN REDIRECT| 
 
 
 
