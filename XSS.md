@@ -7,13 +7,20 @@ other payloads
 
 try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
-# Where to test? - Any user input area
+# Where usually to test for xss? - Any user input area
 
-| Where to Test| 
+| Examples| 
 | ------------- |
 | comment sections| 
 | search forms| 
 | parameteres in the urls where you have x="value" test on value| 
+
+# Identify indexable user input areas via Google Dorks
+
+| Examples query for site:*.domain.com| 
+| ------------- |
+| "leave a comment" -sign in or with sing in| 
+| "search" OR "find" -www| 
 
 
 How to excalate xss to other things and what things it can be? 
