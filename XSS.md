@@ -29,7 +29,11 @@ try to bypass the restrictions such as tag removal, encoding or character blackl
 | TBD| 
 
 
+# XSS specific to software / CVE
 
+| Software known to allow xss | 
+| ------------- |
+| TBD| 
 
 # Escalate XSS further to:
 
