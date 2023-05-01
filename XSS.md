@@ -11,9 +11,9 @@ try to bypass the restrictions such as tag removal, encoding or character blackl
 
 | By Priority| 
 | ------------- |
-| Stored | 
-| Reflected | 
-| DOM | 
+| Stored - stored on the target server, often in a database. When a user visits a page containing the stored script, it gets executed in their browser. e.g., blog, cms comment section | 
+| Reflected -when a user clicks on a malicious link or submits a form containing the script, which is then immediately reflected back and executed in the user’s browser. e.g., via url parameter | 
+| DOM - TBD | 
 
 # Where can be found ? 
 
