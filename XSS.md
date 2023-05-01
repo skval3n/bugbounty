@@ -31,6 +31,13 @@
 | input (registration, subscription, etc) forms| 
 | parameteres in the urls where you have x="value" test on value| 
 
+
+# Payloads / Cheat Sheets 
+
+| Examples| 
+| ------------- |
+| https://portswigger.net/web-security/cross-site-scripting/cheat-sheet| 
+
 # Identify indexable user input areas via Google Dorks
 
 | Examples query for site:*.domain.com| 
