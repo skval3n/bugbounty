@@ -51,7 +51,7 @@
 | Examples query for site:*.domain.com| 
 | ------------- |
 | "leave a comment" -sign in or with sign in| 
-| "search" OR "find" -www| 
+| "search" OR "find" -www|                                                                                                                                     | inurl:"search"| 
 
 
 # Identify indexable user input areas via scripts / automation
