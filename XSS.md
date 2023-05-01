@@ -3,7 +3,7 @@
 | By Priority| 
 | ------------- |
 | **Stored** - stored on the target server, often in a database. When a user visits a page containing the stored script, it gets executed in their browser. **e.g., blog, cms comment section** | 
-| **Blind xss (part of persistant)** - https://www.acunetix.com/websitesecurity/detecting-blind-xss-vulnerabilities/ | 
+| **Blind xss (part of persistant)** - https://www.acunetix.com/websitesecurity/detecting-blind-xss-vulnerabilities/ Example of web applications and web pages where blind XSS attacks can occur: Contact/Feedback pages, Log viewers, Exception handlers, Chat applications / forums, Customer ticket applications, Web Application Firewalls, Any application that requires user moderation  | 
 | **Reflected** -when a user clicks on a malicious link or submits a form containing the script, which is then immediately reflected back and executed in the user’s browser. **e.g., via url parameter** | 
 | DOM - TBD | 
 
