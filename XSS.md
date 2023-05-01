@@ -11,7 +11,11 @@ try to bypass the restrictions such as tag removal, encoding or character blackl
 any user input fields such as 
 *** 
 comment sections (most often stored leading to stored xss)
+*** 
+*** 
 search forms
+*** 
+*** 
 parameteres in the urls where you have x="value" test on value
 *** 
 
