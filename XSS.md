@@ -1,12 +1,3 @@
-
-
-XSS POLYGLOT - all in one test
-https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot 
-
-other payloads
-
-try to bypass the restrictions such as tag removal, encoding or character blacklisting.
-
 # Types of XSS 
 
 | By Priority| 
