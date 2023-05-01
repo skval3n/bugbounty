@@ -14,12 +14,19 @@
 | **JavaScript:** When user input is directly inserted into JavaScript code, it can lead to XSS vulnerabilities. For example, an attacker could exploit a vulnerable script that uses user input as part of a “document.write()” function.  **Examples:** **Generic:** Payloads from the general.js file are launched on all tags. **AngularJS:** Payloads from angular.js are launched on detected templates. **Script:** Payloads from script.js in injected in all possible content. **Link:** Payloads from link.js are launched for all href a tags.| 
 | **URL parameters:** If user input is not properly sanitized before being used in URL parameters, attackers can inject malicious scripts that execute when the URL is loaded. | 
 
-# Challenge of "evasion" of security measures
+# Common Security Measures
 
-| Understanding how to bypass existing measures is #1 - craft payload custom | 
+| Common web app security measures | 
 | ------------- |
 | Web app targets may use security measures such as (encoding of characters) = this makes it difficult to use pre-defined payloads where specific chars may be encoded, not resulting in successful payload exec. or (filtering) | 
 | Using alternative encoding may cause the application to interpret the characters as harmless text, while the browser still renders it as executable code.| 
+
+# Advanced Evasion Techniques
+
+| Ideas what to do to successfully attempt exec payload on security measures in place | 
+| ------------- |
+| Bypassing XSS filters: Some web applications implement filters to block known XSS payloads. To bypass these filters, you may need to use less common payloads, encode characters differently, or split the payload into parts. For example, instead of using <script>, you can try <scr<script>ipt>. | 
+| Bypass encodings: Some applications may filter or encode characters like <, >, and “. Experiment with different encodings (e.g., &#60; for <) or alternative characters (e.g., using backticks instead of quotes) to bypass these filters.| 
 
 
 # Where to test for xss? - Any user input area
