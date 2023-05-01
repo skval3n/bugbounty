@@ -7,7 +7,7 @@ other payloads
 
 try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
-Where to test?
+# Where to test?
 any user input fields such as 
 comment sections (most often stored leading to stored xss)
 search forms
