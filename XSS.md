@@ -7,6 +7,14 @@ other payloads
 
 try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
+# Types of XSS 
+
+| By Priority| 
+| ------------- |
+| Stored | 
+| Reflected | 
+| DOM | 
+
 # Where usually to test for xss? - Any user input area
 
 | Examples| 
