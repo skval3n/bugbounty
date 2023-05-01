@@ -37,11 +37,12 @@
 | "leave a comment" -sign in or with sign in| 
 | "search" OR "find" -www| 
 
+
 # Identify indexable user input areas via scripts / automation
 
 | Examples of tools for automatic assessment of xss| 
 | ------------- |
-| TBD| 
+| XSS RADAR https://github.com/bugbountyforum/XSS-Radar - limited to no urls, doesnt work well | 
 
 
 # XSS specific to software / CVE
