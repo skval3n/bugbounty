@@ -22,6 +22,14 @@ try to bypass the restrictions such as tag removal, encoding or character blackl
 | "leave a comment" -sign in or with sign in| 
 | "search" OR "find" -www| 
 
+# Identify indexable user input areas via scripts / automation
+
+| Examples of tools for automatic assessment of xss| 
+| ------------- |
+| TBD| 
+
+
+
 
 # Escalate XSS further to:
 
