@@ -8,7 +8,10 @@ other payloads
 try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
 Where to test?
-any user input fields e.g., comment sections (most often stored), search forms, parameteres in the urls. 
+any user input fields such as 
+comment sections (most often stored leading to stored xss)
+search forms
+parameteres in the urls where you have x="value" test on value
 
 How to excalate xss to other things and what things it can be? 
 
