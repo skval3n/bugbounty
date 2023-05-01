@@ -3,6 +3,7 @@
 | By Priority| 
 | ------------- |
 | **Stored** - stored on the target server, often in a database. When a user visits a page containing the stored script, it gets executed in their browser. **e.g., blog, cms comment section** | 
+| **Blind xss (part of persistant)** - https://www.acunetix.com/websitesecurity/detecting-blind-xss-vulnerabilities/ | 
 | **Reflected** -when a user clicks on a malicious link or submits a form containing the script, which is then immediately reflected back and executed in the user’s browser. **e.g., via url parameter** | 
 | DOM - TBD | 
 
