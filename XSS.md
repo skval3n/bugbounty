@@ -7,14 +7,13 @@ other payloads
 
 try to bypass the restrictions such as tag removal, encoding or character blacklisting.
 
-# Where to test?
+# Where to test? - Any user input area
 
-| Where to Test        | 
+| Where to Test| 
 | ------------- |
-| comment sections    | 
+| comment sections| 
 | search forms| 
-| parameteres in the urls where you have x="value" test on value
- | 
+| parameteres in the urls where you have x="value" test on value| 
 
 
 How to excalate xss to other things and what things it can be? 
