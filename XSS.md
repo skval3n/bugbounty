@@ -20,7 +20,7 @@
 | ------------- |
 | Web app targets may use security measures such as (encoding of characters) = this makes it difficult to use pre-defined payloads where specific chars may be encoded, not resulting in successful payload exec. or (filtering) | 
 | Using alternative encoding may cause the application to interpret the characters as harmless text, while the browser still renders it as executable code.| 
-| URL parameters: If user input is not properly sanitized before being used in URL parameters, attackers can inject malicious scripts that execute when the URL is loaded. | 
+
 
 
 # Where to test for xss? - Any user input area
