@@ -27,7 +27,8 @@
 | Examples| 
 | ------------- |
 | comment sections| 
-| search forms| 
+| search bars | 
+| input (registration, subscription, etc) forms| 
 | parameteres in the urls where you have x="value" test on value| 
 
 # Identify indexable user input areas via Google Dorks
