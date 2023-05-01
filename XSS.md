@@ -51,8 +51,9 @@
 | Examples query for site:*.domain.com| 
 | ------------- |
 | "leave a comment" -sign in or with sign in| 
-| "search" OR "find" -www|                                                                                                                                     | inurl:"search"| 
-
+| "search" OR "find" -www|                                                                                                                                     | inurl:"search" OR .php? | 
+                                                                                                                                                
+ 
 
 # Identify indexable user input areas via scripts / automation
 
