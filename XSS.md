@@ -34,10 +34,10 @@
 
 | Examples| 
 | ------------- |
-| comment sections(blogs, cms comment area)| 
-| search bars | 
-| input (registration, subscription, etc) forms| 
-| parameteres in the urls where you have x="value" test on value| 
+| STORED XSS best at : comment sections(blogs, cms comment area)| 
+| REFLECTED XSS best at: search bars | 
+| REFLECTED XSS best at: input (registration, subscription, etc) forms| 
+| REFLECTED XSS best at: parameteres in the urls where you have x="value" test on value| 
 
 
 # Payloads / Cheat Sheets 
