@@ -26,7 +26,7 @@
 
 | Examples| 
 | ------------- |
-| comment sections| 
+| comment sections(blogs, cms comment area)| 
 | search bars | 
 | input (registration, subscription, etc) forms| 
 | parameteres in the urls where you have x="value" test on value| 
