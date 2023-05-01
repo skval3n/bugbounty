@@ -8,10 +8,12 @@
 
 # Where can be found ? 
 
-| By type of context e.g., code/ urls| 
+| By type of context e.g., code specific /urls| 
 | ------------- |
 | **HTML attributes:** When user input is improperly sanitized and used as an attribute value in HTML tags, an attacker can inject malicious scripts that execute when the attribute is triggered, like an “onclick” or “onmouseover” event.| 
-| **JavaScript:** When user input is directly inserted into JavaScript code, it can lead to XSS vulnerabilities. For example, an attacker could exploit a vulnerable script that uses user input as part of a “document.write()” function. | 
+| **JavaScript:** When user input is directly inserted into JavaScript code, it can lead to XSS vulnerabilities. For example, an attacker could exploit a vulnerable script that uses user input as part of a “document.write()” function.  **Examples:** **Generic:** Payloads from the general.js file are launched on all tags. **AngularJS:** Payloads from angular.js are launched on detected templates.
+    **Script:** Payloads from script.js in injected in all possible content.
+    **Link:** Payloads from link.js are launched for all href a tags.| 
 | **URL parameters:** If user input is not properly sanitized before being used in URL parameters, attackers can inject malicious scripts that execute when the URL is loaded. | 
 
 # Challenge of "evasion" of security measures
@@ -20,7 +22,6 @@
 | ------------- |
 | Web app targets may use security measures such as (encoding of characters) = this makes it difficult to use pre-defined payloads where specific chars may be encoded, not resulting in successful payload exec. or (filtering) | 
 | Using alternative encoding may cause the application to interpret the characters as harmless text, while the browser still renders it as executable code.| 
-
 
 
 # Where to test for xss? - Any user input area
