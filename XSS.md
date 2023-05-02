@@ -43,9 +43,19 @@
 # Payloads / Cheat Sheets 
 
 | Examples| 
-| ------------- |
+| ------------- |                                                                                                                                             
 | https://portswigger.net/web-security/cross-site-scripting/cheat-sheet| 
+                                                                                                                                                
 
+                                                                                                                                                
+# Payloads from submissions
+
+| Other users tested successful| 
+| ------------- |
+| [Click here](javascript:alert(1))|     
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
 # Identify indexable user input areas via Google Dorks
 
 | Examples query for site:*.domain.com| 
