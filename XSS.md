@@ -7,7 +7,7 @@
 | **Reflected** -when a user clicks on a malicious link or submits a form containing the script, which is then immediately reflected back and executed in the user’s browser. **e.g., via url parameter** | 
 | DOM - TBD | 
 
-# Where can be found ? 
+# XSS Contexts? 
 
 | By type of context e.g., code specific /urls| 
 | ------------- |
@@ -36,7 +36,7 @@
 | ------------- |
 | STORED XSS best at : comment sections(blogs, cms comment area)| 
 | REFLECTED XSS best at: search bars | 
-| REFLECTED XSS best at: input (registration, subscription, etc) forms| 
+| REFLECTED ORSTORED XSS best at: input (registration, subscription, etc) forms| 
 | REFLECTED XSS best at: parameteres in the urls where you have x="value" test on value| 
 
 
